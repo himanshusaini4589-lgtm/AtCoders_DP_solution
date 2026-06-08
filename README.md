@@ -17,7 +17,7 @@
 | # | Problem | Topic | Status |
 |---|---------|-------|--------|
 | A | [Frog 1](https://atcoder.jp/contests/dp/tasks/dp_a) | 1D DP | ✅ Done |
-| B | [Frog 2](https://atcoder.jp/contests/dp/tasks/dp_b) | 1D DP | ⬜ |
+| B | [Frog 2](https://atcoder.jp/contests/dp/tasks/dp_b) | 1D DP | ✅ Done |
 | C | [Vacation](https://atcoder.jp/contests/dp/tasks/dp_c) | 1D DP | ⬜ |
 | D | [Knapsack 1](https://atcoder.jp/contests/dp/tasks/dp_d) | Knapsack | ⬜ |
 | E | [Knapsack 2](https://atcoder.jp/contests/dp/tasks/dp_e) | Knapsack | ⬜ |
