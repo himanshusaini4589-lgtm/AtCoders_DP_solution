@@ -18,7 +18,7 @@
 |---|---------|-------|--------|
 | A | [Frog 1](https://atcoder.jp/contests/dp/tasks/dp_a) | 1D DP | ✅ Done |
 | B | [Frog 2](https://atcoder.jp/contests/dp/tasks/dp_b) | 1D DP | ✅ Done |
-| C | [Vacation](https://atcoder.jp/contests/dp/tasks/dp_c) | 1D DP | ⬜ |
+| C | [Vacation](https://atcoder.jp/contests/dp/tasks/dp_c) | 1D DP | ✅ Done |
 | D | [Knapsack 1](https://atcoder.jp/contests/dp/tasks/dp_d) | Knapsack | ⬜ |
 | E | [Knapsack 2](https://atcoder.jp/contests/dp/tasks/dp_e) | Knapsack | ⬜ |
 | F | [LCS](https://atcoder.jp/contests/dp/tasks/dp_f) | String DP | ⬜ |
