@@ -30,7 +30,7 @@
 | L | [Deque](https://atcoder.jp/contests/dp/tasks/dp_l) | Interval DP | ⬜ |
 | M | [Candies](https://atcoder.jp/contests/dp/tasks/dp_m) | DP + Prefix Sum | ⬜ |
 | N | [Slimes](https://atcoder.jp/contests/dp/tasks/dp_n) | Interval DP | ⬜ |
-| O | [Matching](https://atcoder.jp/contests/dp/tasks/dp_o) | Bitmask DP | ⬜ |
+| O | [Matching](https://atcoder.jp/contests/dp/tasks/dp_o) | Bitmask DP | ✅ Done |
 | P | [Independent Set](https://atcoder.jp/contests/dp/tasks/dp_p) | Tree DP | ⬜ |
 | Q | [Flowers](https://atcoder.jp/contests/dp/tasks/dp_q) | DP + Segment Tree | ⬜ |
 | R | [Walk](https://atcoder.jp/contests/dp/tasks/dp_r) | Matrix Exponentiation | ⬜ |
